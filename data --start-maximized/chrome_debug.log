@@ -1,0 +1,5 @@
+[18322:18322:0720/160517.894545:WARNING:password_store_factory.cc(262)] Using basic (unencrypted) store for password storage. See https://chromium.googlesource.com/chromium/src/+/master/docs/linux_password_storage.md for more information about password storage options.
+[18322:18407:0720/160518.350690:WARNING:leveldb_database.cc(106)] Unable to open /home/chaito/centralmessenger/whats/data --start-maximized/Default/shared_proto_db: Invalid argument: /home/chaito/centralmessenger/whats/data --start-maximized/Default/shared_proto_db: does not exist (create_if_missing is false)
+[18322:18339:0720/160520.111533:ERROR:browser_process_sub_thread.cc(221)] Waited 125 ms for network service
+[18322:18322:0720/160520.119850:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[18322:18322:0720/160520.119885:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,6 @@
+2019/07/20-17:41:21.988 68ba Reusing MANIFEST /home/chaito/centralmessenger/whats/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/20-17:41:21.989 68ba Recovering log #3
+2019/07/20-17:41:22.143 68ba Reusing old log /home/chaito/centralmessenger/whats/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2019/07/20-17:51:42.442 6b12 Level-0 table #5: started
+2019/07/20-17:51:42.641 6b12 Level-0 table #5: 1358951 bytes OK
+2019/07/20-17:51:42.698 6b12 Delete type=0 #3
