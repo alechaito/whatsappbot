@@ -1,12 +1,24 @@
-2019/07/20-17:41:13.917 68ba Reusing MANIFEST leveldb/MANIFEST-000001
-2019/07/20-17:41:13.918 68ba Recovering log #6
-2019/07/20-17:41:13.952 68ba Reusing old log leveldb/000006.log 
-2019/07/20-23:28:43.219 6dcb Level-0 table #10: started
-2019/07/20-23:28:43.295 6dcb Level-0 table #10: 21529 bytes OK
-2019/07/20-23:28:43.341 6dcb Delete type=0 #6
-2019/07/21-16:22:50.303 6dcb Level-0 table #12: started
-2019/07/21-16:22:50.364 6dcb Level-0 table #12: 9047 bytes OK
-2019/07/21-16:22:50.410 6dcb Delete type=0 #9
-2019/07/22-06:06:54.034 7b14 Level-0 table #14: started
-2019/07/22-06:06:54.095 7b14 Level-0 table #14: 9987 bytes OK
-2019/07/22-06:06:54.251 7b14 Delete type=0 #11
+2019/07/22-08:04:29.037 26aa Reusing MANIFEST leveldb/MANIFEST-000001
+2019/07/22-08:04:29.038 26aa Recovering log #13
+2019/07/22-08:04:29.038 26aa Reusing old log leveldb/000013.log 
+2019/07/22-08:27:35.069 2b5b Level-0 table #17: started
+2019/07/22-08:27:35.140 2b5b Level-0 table #17: 24714 bytes OK
+2019/07/22-08:27:35.186 2b5b Delete type=0 #13
+2019/07/22-08:27:35.186 2aa1 Compacting 4@0 + 1@1 files
+2019/07/22-08:27:35.276 2aa1 Generated table #18@0: 13 keys, 2406 bytes
+2019/07/22-08:27:35.276 2aa1 Compacted 4@0 + 1@1 files => 2406 bytes
+2019/07/22-08:27:35.299 2aa1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/22-08:27:35.299 2aa1 Delete type=2 #12
+2019/07/22-08:27:35.299 2aa1 Delete type=2 #17
+2019/07/22-08:27:35.299 2aa1 Delete type=2 #10
+2019/07/22-08:27:35.300 2aa1 Delete type=2 #14
+2019/07/22-08:27:35.300 2aa1 Delete type=2 #7
+2019/07/22-09:00:35.069 3101 Level-0 table #20: started
+2019/07/22-09:00:35.130 3101 Level-0 table #20: 27408 bytes OK
+2019/07/22-09:00:35.176 3101 Delete type=0 #16
+2019/07/22-09:43:35.095 3671 Level-0 table #22: started
+2019/07/22-09:43:35.175 3671 Level-0 table #22: 24976 bytes OK
+2019/07/22-09:43:35.221 3671 Delete type=0 #19
+2019/07/22-10:06:35.068 3be5 Level-0 table #24: started
+2019/07/22-10:06:35.138 3be5 Level-0 table #24: 27227 bytes OK
+2019/07/22-10:06:35.227 3be5 Delete type=0 #21

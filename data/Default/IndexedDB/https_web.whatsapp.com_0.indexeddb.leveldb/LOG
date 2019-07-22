@@ -1,6 +1,38 @@
-2019/07/20-17:41:21.988 68ba Reusing MANIFEST /home/chaito/centralmessenger/whats/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/07/20-17:41:21.989 68ba Recovering log #3
-2019/07/20-17:41:22.143 68ba Reusing old log /home/chaito/centralmessenger/whats/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
-2019/07/20-17:51:42.442 6b12 Level-0 table #5: started
-2019/07/20-17:51:42.641 6b12 Level-0 table #5: 1358951 bytes OK
-2019/07/20-17:51:42.698 6b12 Delete type=0 #3
+2019/07/22-08:04:35.130 26ad Reusing MANIFEST /home/chaito/centralmessenger/whats/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/22-08:04:35.130 26ad Recovering log #4
+2019/07/22-08:04:35.177 26ad Reusing old log /home/chaito/centralmessenger/whats/data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000004.log 
+2019/07/22-08:26:41.526 2bc1 Level-0 table #8: started
+2019/07/22-08:26:41.941 2bc1 Level-0 table #8: 1352768 bytes OK
+2019/07/22-08:26:42.158 2bc1 Delete type=0 #4
+2019/07/22-08:27:01.987 2bc1 Compacting 1@1 + 1@2 files
+2019/07/22-08:27:02.310 2bc1 Generated table #9@1: 38090 keys, 1634333 bytes
+2019/07/22-08:27:02.310 2bc1 Compacted 1@1 + 1@2 files => 1634333 bytes
+2019/07/22-08:27:02.344 2bc1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/07/22-08:27:02.345 2bc1 Delete type=2 #8
+2019/07/22-08:27:02.346 2bc1 Delete type=2 #5
+2019/07/22-09:33:29.404 2bc1 Level-0 table #11: started
+2019/07/22-09:33:29.577 2bc1 Level-0 table #11: 1374892 bytes OK
+2019/07/22-09:33:29.725 2bc1 Delete type=0 #7
+2019/07/22-09:35:55.728 2bc1 Compacting 1@1 + 1@2 files
+2019/07/22-09:35:56.103 2bc1 Generated table #12@1: 50161 keys, 2225597 bytes
+2019/07/22-09:35:56.153 2bc1 Generated table #13@1: 5507 keys, 184075 bytes
+2019/07/22-09:35:56.153 2bc1 Compacted 1@1 + 1@2 files => 2409672 bytes
+2019/07/22-09:35:56.187 2bc1 compacted to: files[ 0 0 2 0 0 0 0 ]
+2019/07/22-09:35:56.187 2bc1 Delete type=2 #9
+2019/07/22-09:35:56.190 2bc1 Delete type=2 #11
+2019/07/22-10:04:08.081 2bc1 Level-0 table #15: started
+2019/07/22-10:04:08.315 2bc1 Level-0 table #15: 1361034 bytes OK
+2019/07/22-10:04:08.376 2bc1 Delete type=0 #10
+2019/07/22-10:04:09.818 2bc1 Compacting 1@1 + 2@2 files
+2019/07/22-10:04:10.231 2bc1 Generated table #16@1: 41640 keys, 2220551 bytes
+2019/07/22-10:04:10.466 2bc1 Generated table #17@1: 31990 keys, 948252 bytes
+2019/07/22-10:04:10.466 2bc1 Compacted 1@1 + 2@2 files => 3168803 bytes
+2019/07/22-10:04:10.535 2bc1 compacted to: files[ 0 0 2 0 0 0 0 ]
+2019/07/22-10:04:10.535 2bc1 Delete type=2 #13
+2019/07/22-10:04:10.535 2bc1 Delete type=2 #15
+2019/07/22-10:04:10.535 2bc1 Delete type=2 #12
+2019/07/22-18:18:02.311 2bc1 Level-0 table #19: started
+2019/07/22-18:18:02.883 2bc1 Level-0 table #19: 1303672 bytes OK
+2019/07/22-18:18:03.203 2bc1 Delete type=0 #14
+2019/07/22-18:18:03.257 2bc1 Compacting 1@1 + 2@2 files
+2019/07/22-18:18:03.323 2bc1 compacted to: files[ 0 1 2 0 0 0 0 ]
