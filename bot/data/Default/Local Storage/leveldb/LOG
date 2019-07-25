@@ -1,24 +1,24 @@
-2019/07/22-08:04:29.037 26aa Reusing MANIFEST leveldb/MANIFEST-000001
-2019/07/22-08:04:29.038 26aa Recovering log #13
-2019/07/22-08:04:29.038 26aa Reusing old log leveldb/000013.log 
-2019/07/22-08:27:35.069 2b5b Level-0 table #17: started
-2019/07/22-08:27:35.140 2b5b Level-0 table #17: 24714 bytes OK
-2019/07/22-08:27:35.186 2b5b Delete type=0 #13
-2019/07/22-08:27:35.186 2aa1 Compacting 4@0 + 1@1 files
-2019/07/22-08:27:35.276 2aa1 Generated table #18@0: 13 keys, 2406 bytes
-2019/07/22-08:27:35.276 2aa1 Compacted 4@0 + 1@1 files => 2406 bytes
-2019/07/22-08:27:35.299 2aa1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/07/22-08:27:35.299 2aa1 Delete type=2 #12
-2019/07/22-08:27:35.299 2aa1 Delete type=2 #17
-2019/07/22-08:27:35.299 2aa1 Delete type=2 #10
-2019/07/22-08:27:35.300 2aa1 Delete type=2 #14
-2019/07/22-08:27:35.300 2aa1 Delete type=2 #7
-2019/07/22-09:00:35.069 3101 Level-0 table #20: started
-2019/07/22-09:00:35.130 3101 Level-0 table #20: 27408 bytes OK
-2019/07/22-09:00:35.176 3101 Delete type=0 #16
-2019/07/22-09:43:35.095 3671 Level-0 table #22: started
-2019/07/22-09:43:35.175 3671 Level-0 table #22: 24976 bytes OK
-2019/07/22-09:43:35.221 3671 Delete type=0 #19
-2019/07/22-10:06:35.068 3be5 Level-0 table #24: started
-2019/07/22-10:06:35.138 3be5 Level-0 table #24: 27227 bytes OK
-2019/07/22-10:06:35.227 3be5 Delete type=0 #21
+2019/07/24-11:32:42.751 dd6 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/07/24-11:32:42.752 dd6 Recovering log #23
+2019/07/24-11:32:42.808 dd6 Reusing old log leveldb/000023.log 
+2019/07/24-11:44:20.796 1013 Level-0 table #27: started
+2019/07/24-11:44:20.849 1013 Level-0 table #27: 16555 bytes OK
+2019/07/24-11:44:20.962 1013 Delete type=0 #23
+2019/07/24-11:44:20.962 101b Compacting 4@0 + 1@1 files
+2019/07/24-11:44:21.129 101b Generated table #28@0: 40 keys, 4326 bytes
+2019/07/24-11:44:21.129 101b Compacted 4@0 + 1@1 files => 4326 bytes
+2019/07/24-11:44:21.154 101b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/24-11:44:21.155 101b Delete type=2 #27
+2019/07/24-11:44:21.155 101b Delete type=2 #22
+2019/07/24-11:44:21.201 101b Delete type=2 #24
+2019/07/24-11:44:21.201 101b Delete type=2 #20
+2019/07/24-11:44:21.202 101b Delete type=2 #18
+2019/07/24-12:03:22.274 13ee Level-0 table #30: started
+2019/07/24-12:03:23.604 13ee Level-0 table #30: 28770 bytes OK
+2019/07/24-12:03:24.987 13ee Delete type=0 #26
+2019/07/24-12:27:20.773 1b2e Level-0 table #32: started
+2019/07/24-12:27:20.795 1b2e Level-0 table #32: 28623 bytes OK
+2019/07/24-12:27:20.819 1b2e Delete type=0 #29
+2019/07/24-13:14:20.773 238b Level-0 table #34: started
+2019/07/24-13:14:20.792 238b Level-0 table #34: 33473 bytes OK
+2019/07/24-13:14:20.838 238b Delete type=0 #31

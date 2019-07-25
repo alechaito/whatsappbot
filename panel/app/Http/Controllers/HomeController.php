@@ -15,7 +15,7 @@ class HomeController extends Controller {
         return view('home');
     }
 
-    public function qr_code() {
-        return view('qrcode');
+    public function home_message() {
+        return view('message');
     }
 }

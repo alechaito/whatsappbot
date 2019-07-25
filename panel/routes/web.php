@@ -24,4 +24,5 @@ Route::post('/agent/insert', 'UserController@insert_agent')->name('agent.insert'
 Route::get('/user/delete/{id}', 'UserController@delete')->name('user.delete');
 
 #WhatsApp Connect
-Route::get('/qrcode', 'HomeController@qr_code')->name('qrcode');
+Route::get('/message', 'HomeController@home_message')->name('home.message');
+Route::post('/message/insert', 'MessageController@insert')->name('msg.insert');
