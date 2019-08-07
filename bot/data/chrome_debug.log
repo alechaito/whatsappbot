@@ -1,137 +1,51 @@
-[1:1:0724/113234.623037:ERROR:chrome_content_client.cc(324)] Failed to locate and load the component updated flash plugin.
-[3517:3517:0724/113235.515394:ERROR:chrome_content_client.cc(324)] Failed to locate and load the component updated flash plugin.
-[3517:3517:0724/113239.530036:WARNING:password_store_factory.cc(262)] Using basic (unencrypted) store for password storage. See https://chromium.googlesource.com/chromium/src/+/master/docs/linux_password_storage.md for more information about password storage options.
-[3517:3546:0724/113240.918025:WARNING:leveldb_database.cc(106)] Unable to open /home/chaito/centralmessenger/whats/bot/data/Default/shared_proto_db: Invalid argument: /home/chaito/centralmessenger/whats/bot/data/Default/shared_proto_db: does not exist (create_if_missing is false)
-[3517:3517:0724/120233.930006:INFO:CONSOLE(10)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://thispointer.com/wp-content/cache/wpfc-minified/kb2kalzg/fq6rm.js (10)
-[3517:3517:0724/120252.609678:INFO:CONSOLE(0)] "The resource https://pagead2.googlesyndication.com/pagead/js/r20190722/r20190131/show_ads_impl.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
-[3557:3561:0724/120301.844839:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 75
-[3557:3561:0724/120302.302232:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 83
-[3557:3561:0724/120302.309169:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 89
-[3557:3561:0724/120302.331290:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 85
-[3557:3561:0724/120302.683824:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 91
-[3557:3561:0724/120302.702708:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 93
-[3557:3561:0724/120303.076007:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 101
-[3557:3561:0724/120303.077635:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 97
-[3557:3561:0724/120303.082547:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 99
-[3517:3517:0724/120307.003292:INFO:CONSOLE(13)] "Video gallery initializing", source: https://snigelweb-com.videoplayerhub.com/videoloader.js (13)
-[3517:3517:0724/120310.797918:INFO:CONSOLE(72)] "[snhb](2.999s):", source: https://static.h-bid.com/w3schools.com/20190327/snhb-w3schools.com.min.js?20190327 (72)
-[3517:3517:0724/120310.867834:INFO:CONSOLE(72)] "[snhb](3.07s):", source: https://static.h-bid.com/w3schools.com/20190327/snhb-w3schools.com.min.js?20190327 (72)
-[3517:3517:0724/120312.344760:INFO:CONSOLE(106)] "apstag.setDisplayBids() was called", source: https://static.h-bid.com/w3schools.com/20190327/snhb-w3schools.com.min.js?20190327 (106)
-[3557:3561:0724/120312.480667:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 13
-[3557:3561:0724/120312.485736:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 9
-[3557:3561:0724/120312.487010:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 11
-[3557:3561:0724/120312.547114:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 15
-[3557:3561:0724/120312.685223:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 3
-[3557:3561:0724/120312.694726:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 7
-[3557:3561:0724/120312.735527:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 17
-[3557:3561:0724/120312.765355:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 21
-[3557:3561:0724/120312.773963:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 19
-[3517:3517:0724/120314.710405:INFO:CONSOLE(47)] "document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.", source: https://s0.2mdn.net/sadbundle/2920950490151780352/728x90/index.html (47)
-[3517:3517:0724/120315.437799:INFO:CONSOLE(106)] "apstag.setDisplayBids() was called", source: https://static.h-bid.com/w3schools.com/20190327/snhb-w3schools.com.min.js?20190327 (106)
-[3551:3594:0724/120317.488308:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120317.968151:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3557:3561:0724/120318.150381:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
-[3551:3594:0724/120318.473192:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120318.867059:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120320.148948:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120321.830642:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120325.031775:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120325.977275:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120326.478131:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120327.064174:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120327.375972:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3517:3517:0724/120327.702829:INFO:CONSOLE(12)] "Emily:", source: https://eus.rubiconproject.com/usync.html?geo=na&co=us&s=ms2&gdpr_consent=BOkNQx0OkNQx0DlABAENCc-AAAAm-AdAACAAoABsAGAAZAA4ACAAEgALQAZAA0ABwAD6AIoAjABMgCgAKIAWwA0ACEAEVAI4AkABNACfAFKALcAcgA_QDMAJPATe&gdpr=0 (12)
-[3517:3517:0724/120327.716161:INFO:CONSOLE(12)] "Emily:", source: https://eus.rubiconproject.com/usync.html?geo=na&co=us&s=ms2&gdpr_consent=BOkNQx0OkNQx0DlABAENCc-AAAAm-AdAACAAoABsAGAAZAA4ACAAEgALQAZAA0ABwAD6AIoAjABMgCgAKIAWwA0ACEAEVAI4AkABNACfAFKALcAcgA_QDMAJPATe&gdpr=0 (12)
-[3551:3594:0724/120327.925829:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120329.072302:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120329.936825:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120330.523640:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120331.290844:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120331.371737:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120334.682417:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120334.982340:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120335.881952:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120335.882740:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120336.731228:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120336.732046:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120338.578231:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120338.729915:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/120339.814387:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120340.062751:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
-[3551:3594:0724/120340.910540:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3517:3517:0724/120913.645820:WARNING:x11_util.cc(1422)] X error received: serial 220979, error_code 3 (BadWindow (invalid Window parameter)), request_code 3, minor_code 0 (X_GetWindowAttributes)
-[3517:3517:0724/121504.810427:INFO:CONSOLE(6)] "PubWise Pre Load Complete", source: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pre_pws.js?type=default (6)
-[3517:3517:0724/121505.228117:INFO:CONSOLE(405)] "PubWise Load Complete XV520190610", source: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default (405)
-[3517:3517:0724/121507.511808:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.guru99.com/media/plg_jchoptimize/cache/js/dc52d894d1212c96340427bb158d306f_0.js (2)
-[3517:3517:0724/121508.498828:INFO:CONSOLE(579)] "Powered by AMP ⚡ HTML – Version 1906111828200", source: https://cdn.ampproject.org/rtv/011906111828200/amp4ads-v0.js (579)
-[3517:3517:0724/121509.580974:INFO:CONSOLE(579)] "Powered by AMP ⚡ HTML – Version 1906111828200", source: https://cdn.ampproject.org/rtv/011906111828200/amp4ads-v0.js (579)
-[3517:3517:0724/121509.833058:INFO:CONSOLE(579)] "Powered by AMP ⚡ HTML – Version 1906111828200", source: https://cdn.ampproject.org/rtv/011906111828200/amp4ads-v0.js (579)
-[1:15:0724/121510.333333:WARNING:render_delay_buffer.cc(341)] Applying total delay of 5 blocks.
-[1:14:0724/121510.514189:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
-[1:14:0724/121510.514312:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
-[1:14:0724/121510.523416:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 104 to 127
-[1:14:0724/121510.523543:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 106 to 125
-[1:14:0724/121510.523617:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 110 to 124
-[1:14:0724/121510.523680:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 112 to 123
-[1:14:0724/121510.523784:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 103 to 122
-[1:14:0724/121510.523860:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 105 to 121
-[1:14:0724/121510.523945:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 111 to 120
-[1:14:0724/121510.524037:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 109 to 119
-[1:14:0724/121510.524109:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 1 to 14
-[1:14:0724/121510.524160:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 2 to 13
-[1:14:0724/121510.524200:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 3 to 12
-[1:14:0724/121510.524239:WARNING:media_session.cc(335)] Duplicate id found. Reassigning from 5 to 11
-[1:1:0724/121510.641277:ERROR:webrtc_sdp.cc(412)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
-[1:1:0724/121510.641520:ERROR:webrtc_sdp.cc(412)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
-[1:1:0724/121510.641644:ERROR:webrtc_sdp.cc(412)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
-[1:1:0724/121510.641735:ERROR:webrtc_sdp.cc(412)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
-[1:1:0724/121510.641791:ERROR:rtc_peer_connection_handler.cc(2296)] Failed to create native session description. Type: offer SDP: v=0
-o=- 7365299167145614465 2 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0
-a=msid-semantic: WMS
-m=application 9 UDP/TLS/RTP/SAVPF 119
-c=IN IP4 0.0.0.0
-b=AS:30
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:7JFQ
-a=ice-pwd:1tNzKe2sisZw4TX9noZ9xa32
-a=ice-options:trickle
-a=fingerprint:sha-256 27:46:18:77:C8:60:B4:63:AB:8D:96:12:99:F3:5B:8E:18:E2:BA:D1:F2:64:3A:E8:30:3C:D1:CB:67:4E:A0:6E
-a=setup:actpass
-a=mid:0
-a=sendrecv
-a=msid: 
-a=rtcp-mux
-a=rtpmap:119 google-data/90000
-a=ssrc:3209930575 cname:qG7afB9BugS8KZ87
-a=ssrc:3209930575 msid:- 
-a=ssrc:3209930575 mslabel:-
-a=ssrc:3209930575 label:
-
-[1:1:0724/121510.641845:ERROR:rtc_peer_connection_handler.cc(1215)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
-[3557:3561:0724/121510.956376:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 1
-[3517:3517:0724/121514.565242:INFO:CONSOLE(0)] "Refused to execute script from 'https://u.acuityplatform.com/us?tpId=137&tpUid=1OSxgwwx9GDmbQSRtq0WHAUQejz&redir=https%3A%2F%2Fdmx.districtm.io%2Fs%2F10022%2F%24UID' because its MIME type ('image/png') is not executable.", source: https://cdn.districtm.io/ids/index.html (0)
-[3517:3517:0724/121517.086206:INFO:CONSOLE(36)] "12.2", source: https://img.mediaplex.com/content/0/12255/304718_300x250.js (36)
-[3517:3517:0724/121519.844954:INFO:CONSOLE(37)] "12.4", source: https://img.mediaplex.com/content/0/12255/304716__300x250.js (37)
-[3551:3594:0724/121521.120994:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/121523.151885:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/121525.149563:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/121526.181297:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/121529.184661:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/121529.218150:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3551:3594:0724/121532.245459:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
-[3557:3561:0724/121542.506608:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 3
-[3517:3517:0724/121612.115022:INFO:CONSOLE(237)] "Uncaught TypeError: Cannot read property 'trigger' of undefined", source: https://contextual.media.net/fcmdynet.js?&cid=8CUQBB2U5&cpcd=7xRa5ccNXLLzdohX57nd7w%3D%3D&crid=441289839&size=641x481&cc=BR&https=1&vif=0&requrl=https%3A%2F%2Fwww.guru99.com%2Fxpath-selenium.html%236&kwrf=https%3A%2F%2Fwww.google.com&nse=3&vi=1563984907438249908&lw=1&ugd=4&insl=1 (237)
-[3517:3517:0724/122526.448300:INFO:CONSOLE(579)] "Powered by AMP ⚡ HTML – Version 1906111828200", source: https://cdn.ampproject.org/rtv/011906111828200/amp4ads-v0.js (579)
-[3517:3517:0724/122526.507041:INFO:CONSOLE(579)] "Powered by AMP ⚡ HTML – Version 1906111828200", source: https://cdn.ampproject.org/rtv/011906111828200/amp4ads-v0.js (579)
-[3517:3517:0724/123522.550945:WARNING:x11_util.cc(1422)] X error received: serial 347703, error_code 3 (BadWindow (invalid Window parameter)), request_code 3, minor_code 0 (X_GetWindowAttributes)
-[3517:3517:0724/125114.777295:WARNING:CONSOLE(353)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.JNa9MntajDY.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_db4DX0hhorP4qsjM6Ki5qzOgeUA/cb=gapi.loaded_0 (353)
-[3517:3517:0724/125114.778147:WARNING:CONSOLE(353)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.JNa9MntajDY.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_db4DX0hhorP4qsjM6Ki5qzOgeUA/cb=gapi.loaded_0 (353)
-[3517:3517:0724/125114.780655:WARNING:CONSOLE(353)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.JNa9MntajDY.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_db4DX0hhorP4qsjM6Ki5qzOgeUA/cb=gapi.loaded_0 (353)
-[3517:3517:0724/145246.630733:INFO:CONSOLE(2)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_RESOLUTION_FAILED", source: https://web.whatsapp.com/app.f2d64e26d366144085e4.js (2)
-[3517:3517:0724/145246.661206:INFO:CONSOLE(2)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_RESOLUTION_FAILED", source: https://web.whatsapp.com/app.f2d64e26d366144085e4.js (2)
-[3517:3517:0724/145246.661343:INFO:CONSOLE(2)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_RESOLUTION_FAILED", source: https://web.whatsapp.com/app.f2d64e26d366144085e4.js (2)
-[3517:3517:0724/145306.660110:INFO:CONSOLE(2)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_RESOLUTION_FAILED", source: https://web.whatsapp.com/app.f2d64e26d366144085e4.js (2)
-[3517:3517:0724/145306.666655:INFO:CONSOLE(2)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_RESOLUTION_FAILED", source: https://web.whatsapp.com/app.f2d64e26d366144085e4.js (2)
+[1:1:0725/215818.990705:ERROR:chrome_content_client.cc(324)] Failed to locate and load the component updated flash plugin.
+[1776:1776:0725/215819.745017:ERROR:chrome_content_client.cc(324)] Failed to locate and load the component updated flash plugin.
+[1776:1776:0725/215822.686070:WARNING:password_store_factory.cc(262)] Using basic (unencrypted) store for password storage. See https://chromium.googlesource.com/chromium/src/+/master/docs/linux_password_storage.md for more information about password storage options.
+[1776:1871:0725/215823.375854:WARNING:leveldb_database.cc(106)] Unable to open /home/chaito/centralmessenger/whats/bot/data/Default/shared_proto_db: Invalid argument: /home/chaito/centralmessenger/whats/bot/data/Default/shared_proto_db: does not exist (create_if_missing is false)
+[1776:1776:0725/220218.601298:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220238.445429:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220238.618225:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220306.735438:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220306.898145:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220513.249258:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220513.431648:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220636.424565:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220636.715567:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220709.866103:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220710.163910:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220917.271732:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/220917.330454:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1816:1816:0725/221011.371243:WARNING:x11_util.cc(1422)] X error received: serial 85732, error_code 181 (GLXBadWindow), request_code 155, minor_code 32 (Unknown)
+[1816:1816:0725/221011.371362:WARNING:x11_util.cc(1422)] X error received: serial 85736, error_code 3 (BadWindow), request_code 4, minor_code 0 (Unknown)
+[1776:1776:0725/221854.576839:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/221854.707891:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/221919.879047:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/221920.026336:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/222003.673031:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/222003.779855:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/222011.286172:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/222011.426230:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/222057.436997:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/224059.237926:WARNING:x11_util.cc(1422)] X error received: serial 198146, error_code 3 (BadWindow (invalid Window parameter)), request_code 3, minor_code 0 (X_GetWindowAttributes)
+[1816:1816:0725/224800.303048:WARNING:x11_util.cc(1422)] X error received: serial 255900, error_code 181 (GLXBadWindow), request_code 155, minor_code 32 (Unknown)
+[1816:1816:0725/224800.303146:WARNING:x11_util.cc(1422)] X error received: serial 255904, error_code 3 (BadWindow), request_code 4, minor_code 0 (Unknown)
+[1776:1776:0725/224800.303817:WARNING:x11_util.cc(1422)] X error received: serial 214620, error_code 3 (BadWindow (invalid Window parameter)), request_code 3, minor_code 0 (X_GetWindowAttributes)
+[1816:1816:0725/225037.121196:WARNING:x11_util.cc(1422)] X error received: serial 276981, error_code 181 (GLXBadWindow), request_code 155, minor_code 32 (Unknown)
+[1816:1816:0725/225037.124609:WARNING:x11_util.cc(1422)] X error received: serial 276985, error_code 3 (BadWindow), request_code 4, minor_code 0 (Unknown)
+[1776:1776:0725/225037.124193:WARNING:x11_util.cc(1422)] X error received: serial 242965, error_code 3 (BadWindow (invalid Window parameter)), request_code 3, minor_code 0 (X_GetWindowAttributes)
+[1776:1776:0725/225322.664137:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225404.566479:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225404.627524:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225419.869564:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225419.979971:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225446.212605:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225446.393699:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225552.407968:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225632.446635:WARNING:x11_util.cc(1422)] X error received: serial 313457, error_code 3 (BadWindow (invalid Window parameter)), request_code 3, minor_code 0 (X_GetWindowAttributes)
+[1776:1776:0725/225721.658864:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225721.768816:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225740.360826:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1776:0725/225740.526604:ERROR:CONSOLE(328)] "Uncaught TypeError: Cannot read property 'visibleWidth' of null", source: chrome-devtools://devtools/bundled/elements/elements_module.js (328)
+[1776:1796:0726/072812.408368:ERROR:browser_process_sub_thread.cc(221)] Waited 1569 ms for network service
+[1776:1776:0726/072813.292493:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[1776:1776:0726/072813.305104:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

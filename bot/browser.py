@@ -7,7 +7,7 @@ class Browser:
 		options = webdriver.ChromeOptions()
 		options.add_argument("user-data-dir=./data")
 		options.add_argument("--start-maximized")
-		self.chrome = webdriver.Chrome(chrome_options=options)
+		self.chrome = webdriver.Chrome(executable_path="/home/chaito/centralmessenger/whats/bot/chromedriver",chrome_options=options)
 
 
 	def write_sess(self):

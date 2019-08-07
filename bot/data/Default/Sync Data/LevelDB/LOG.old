@@ -1,3 +1,3 @@
-2019/07/22-08:04:25.877 26ab Reusing MANIFEST /home/chaito/centralmessenger/whats/data/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/07/22-08:04:25.877 26ab Recovering log #3
-2019/07/22-08:04:25.877 26ab Reusing old log /home/chaito/centralmessenger/whats/data/Default/Sync Data/LevelDB/000003.log 
+2019/07/25-16:34:55.954 69e2 Reusing MANIFEST /home/chaito/centralmessenger/whats/bot/data/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/07/25-16:34:55.954 69e2 Recovering log #3
+2019/07/25-16:34:56.086 69e2 Reusing old log /home/chaito/centralmessenger/whats/bot/data/Default/Sync Data/LevelDB/000003.log 
